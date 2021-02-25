@@ -62,7 +62,7 @@
 
 })(jQuery); // End of use strict
 
-var yourDateToGo = new Date(2020, 8, 26, 16, 30, 0, 0); //here you're making new Date object
+var yourDateToGo = new Date(2021, 8, 25, 17, 30, 0, 0); //here you're making new Date object
     // yourDateToGo.setDate(); //your're setting date in this object 1 day more from now
     //you can change number of days to go by putting any number in place of 1
 
